@@ -1,11 +1,3 @@
-//
-//  QRCodeTests.swift
-//  QRCodeTests
-//
-//  Created by Alexander Schuch on 25/01/15.
-//  Copyright (c) 2015 Alexander Schuch. All rights reserved.
-//
-
 import UIKit
 import XCTest
 @testable import QRCode
